@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_breakdown_mappings">
+    <pa_breakdown_mappings action="DELETE">
+        <breakdown display_value="Priority">0df47e02d7130100b96d45a3ce610399</breakdown>
+        <facts_table>x_58872_needit_needit</facts_table>
+        <field>priority</field>
+        <script/>
+        <scripted>false</scripted>
+        <sys_class_name>pa_breakdown_mappings</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-24 22:03:17</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2b59379a83ab0210f162f855eeaad30f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>0df47e02d7130100b96d45a3ce610399</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_breakdown_mappings_2b59379a83ab0210f162f855eeaad30f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-24 22:03:17</sys_updated_on>
+    </pa_breakdown_mappings>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>89b9a3ca1b81c218e84d2f8dee4bcbaf</instance_id>
+        <instance_name>dev247679</instance_name>
+        <name>pa_breakdown_mappings_2b59379a83ab0210f162f855eeaad30f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_breakdown_mappings"><pa_breakdown_mappings action="INSERT_OR_UPDATE"><breakdown display_value="Priority">0df47e02d7130100b96d45a3ce610399</breakdown><facts_table>x_58872_needit_needit</facts_table><field>priority</field><script/><scripted>false</scripted><sys_class_name>pa_breakdown_mappings</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-24 22:03:17</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>2b59379a83ab0210f162f855eeaad30f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>0df47e02d7130100b96d45a3ce610399</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>pa_breakdown_mappings_2b59379a83ab0210f162f855eeaad30f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-24 22:03:17</sys_updated_on></pa_breakdown_mappings></record_update>]]></payload>
+        <payload_hash>-248849808</payload_hash>
+        <record_name>0df47e02d7130100b96d45a3ce610399</record_name>
+        <reverted_from/>
+        <source>4aba53d483ab4610f162f855eeaad3c9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-24 22:03:17</sys_created_on>
+        <sys_id>6b59379a83ab0210f162f855eeaad311</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190e6c521af0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-24 22:03:17</sys_updated_on>
+        <type>Breakdown Mapping</type>
+        <update_guid>af59379ab3ab0210096faf74f7bfec10</update_guid>
+        <update_guid_history>af59379ab3ab0210096faf74f7bfec10:-248849808</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">4a5af31e83ab0210f162f855eeaad30e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-24 22:07:32</sys_created_on>
+        <sys_db_object display_value="" name="pa_breakdown_mappings">pa_breakdown_mappings</sys_db_object>
+        <sys_id>2dc2af70bb7049a4afa4730a0ad52351</sys_id>
+        <sys_metadata>2b59379a83ab0210f162f855eeaad30f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>0df47e02d7130100b96d45a3ce610399</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>pa_breakdown_mappings_2b59379a83ab0210f162f855eeaad30f</sys_update_name>
+        <sys_update_version display_value="pa_breakdown_mappings_2b59379a83ab0210f162f855eeaad30f">6b59379a83ab0210f162f855eeaad311</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-24 22:07:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
